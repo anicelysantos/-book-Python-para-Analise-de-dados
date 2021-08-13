@@ -1,2 +1,2 @@
-# [book] Python para Analise de dados
+# [book] Python para Análise de dados
 Estudos relacionados ao livro [Python para Análise de Dados](https://www.amazon.com.br/Python-Para-An%C3%A1lise-Dados-Tratamento/dp/8575226479/ref=asc_df_8575226479/?tag=googleshopp00-20&linkCode=df0&hvadid=379739109739&hvpos=&hvnetw=g&hvrand=10573151550381564025&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031697&hvtargid=pla-812784633558&psc=1).
